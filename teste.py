@@ -5,3 +5,4 @@ idiomas =['portugues','ingles','espanhol','alemao']
 print(f'eu falo {idiomas[0]}')
 
 print('sapiranga,10 de novembro')
+
